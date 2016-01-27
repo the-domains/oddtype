@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T05:49:36.709Z'
+datePublished: '2016-01-27T05:49:36.718Z'
 dateModified: '2016-01-27T05:49:35.116Z'
 title: Explore the table of contents.
 author: []

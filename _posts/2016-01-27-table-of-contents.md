@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T05:50:11.443Z'
-dateModified: '2016-01-27T05:50:10.450Z'
+datePublished: '2016-01-27T05:57:43.035Z'
+dateModified: '2016-01-27T05:57:39.275Z'
 title: Table of Contents
 author: []
 sourcePath: _posts/2016-01-27-table-of-contents.md

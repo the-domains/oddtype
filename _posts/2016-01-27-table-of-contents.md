@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T05:46:06.217Z'
-dateModified: '2016-01-27T05:43:49.863Z'
+datePublished: '2016-01-27T05:50:11.443Z'
+dateModified: '2016-01-27T05:50:10.450Z'
 title: Table of Contents
 author: []
 sourcePath: _posts/2016-01-27-table-of-contents.md
@@ -22,8 +22,6 @@ url: table-of-contents/index.html
 _type: Article
 
 ---
-Table of Contents:
-
 * _linebreaker i_ by Hannah Dellabella
 * _Facades_ by Joseph J. McCallister, illustrated by Margo Sikes 
 * _Rhythm Hit_ by Jean-Luc Bouchard, illustrated by Hayley Dalrymple
